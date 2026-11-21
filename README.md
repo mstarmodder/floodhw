@@ -17,4 +17,4 @@ upload the firmware on your pico
 # how to get uart output
 get a generic usb to ttl adapter
 
-connect TX to pin 0, RX to pin 1, GND to pin 3
+connect TX to pin 1, RX to pin 2, GND to pin 3
